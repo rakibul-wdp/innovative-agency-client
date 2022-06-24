@@ -1,7 +1,9 @@
+import Navbar from './Pages/Shared/Navbar/Navbar';
+
 function App() {
   return (
     <div>
-      <button class='btn btn-primary'>Button</button>
+      <Navbar />
     </div>
   );
 }
