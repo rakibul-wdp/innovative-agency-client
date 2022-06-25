@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "name": "Web development",
+    "img": "https://i.ibb.co/mSFym1X/service1.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 2,
+    "name": "Web development",
+    "img": "https://i.ibb.co/zGkDggH/service2.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 3,
+    "name": "Web development",
+    "img": "https://i.ibb.co/k0ZPcFw/service3.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 4,
+    "name": "Web development",
+    "img": "https://i.ibb.co/vCWFhVC/service4.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 5,
+    "name": "Web development",
+    "img": "https://i.ibb.co/82MwZQ9/service5.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 6,
+    "name": "Web development",
+    "img": "https://i.ibb.co/mSFym1X/service1.png",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  }
+]

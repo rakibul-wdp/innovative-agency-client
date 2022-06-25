@@ -13,8 +13,8 @@ const HomeBanner = () => {
           </h2>
           <p className='mb-5'>
             If you want to grow you business or brand, you are the right place. We are provide
-            <br /> professional web service. Our services or products is very unique. We provide
-            <br /> many kind of services like web design, graphic design, and web development. By our
+            <br /> professional web service. Our services or products is very unique. We provide many
+            <br /> kind of services like web design, graphic design, and web development. By our
             <br /> services we can grow and increase your revenue easily.
           </p>
           <PrimaryButton>Hire Us</PrimaryButton>
