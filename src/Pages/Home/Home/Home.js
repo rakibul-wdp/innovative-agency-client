@@ -1,4 +1,5 @@
 import React from 'react';
+import Feedback from '../Feedback/Feedback';
 import HomeBanner from '../HomeBanner/HomeBanner';
 import PopularBrand from '../PopularBrand/PopularBrand';
 import Services from '../Services/Services';
@@ -11,6 +12,7 @@ const Home = () => {
       <PopularBrand />
       <Services />
       <Works />
+      <Feedback />
     </div>
   );
 };

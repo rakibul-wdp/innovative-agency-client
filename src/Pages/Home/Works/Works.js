@@ -30,19 +30,19 @@ const Works = () => {
       </div>
       <div className='flex justify-center w-full py-2 gap-2'>
         <a href='#item1'>
-          <div class='badge badge-sm btn-primary'></div>
+          <div className='badge badge-sm btn-primary'></div>
         </a>
         <a href='#item2'>
-          <div class='badge badge-sm btn-primary'></div>
+          <div className='badge badge-sm btn-primary'></div>
         </a>
         <a href='#item3'>
-          <div class='badge badge-sm btn-primary'></div>
+          <div className='badge badge-sm btn-primary'></div>
         </a>
         <a href='#item4'>
-          <div class='badge badge-sm btn-primary'></div>
+          <div className='badge badge-sm btn-primary'></div>
         </a>
         <a href='#item5'>
-          <div class='badge badge-sm btn-primary'></div>
+          <div className='badge badge-sm btn-primary'></div>
         </a>
       </div>
     </div>

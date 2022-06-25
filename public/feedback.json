@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/HNN7tVB/customer-1.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 2,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/fHLsGqS/customer-2.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 3,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/D7Bddqz/customer-3.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 4,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/fHLsGqS/customer-2.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 5,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/D7Bddqz/customer-3.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 6,
+    "name": "Omok Tomok",
+    "img": "https://i.ibb.co/fHLsGqS/customer-2.png",
+    "companyAndDesignation": "CEO, Manpol",
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  }
+]
