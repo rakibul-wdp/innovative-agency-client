@@ -1,4 +1,5 @@
 import React from 'react';
+import ContactUs from '../ContactUs/ContactUs';
 import Feedback from '../Feedback/Feedback';
 import HomeBanner from '../HomeBanner/HomeBanner';
 import PopularBrand from '../PopularBrand/PopularBrand';
@@ -13,6 +14,7 @@ const Home = () => {
       <Services />
       <Works />
       <Feedback />
+      <ContactUs />
     </div>
   );
 };

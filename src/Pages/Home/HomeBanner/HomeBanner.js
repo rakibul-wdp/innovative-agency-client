@@ -5,7 +5,7 @@ import './HomeBanner.css';
 
 const HomeBanner = () => {
   return (
-    <div className=' custom-shape-divider-bottom bg-primary pt-16'>
+    <div className='custom-shape-divider-bottom bg-primary pt-16'>
       <div className='flex sm:flex-col md:flex-row items-center justify-between px-72'>
         <div className=''>
           <h2 className='text-5xl font-bold'>
