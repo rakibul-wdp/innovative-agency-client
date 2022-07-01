@@ -9,8 +9,9 @@ const ContactUs = () => {
           Let us handle your <br /> project, professionally.
         </h2>
         <p>
-          If you need to any specific requirement please contact with <br /> us and tell us what you want. With well{' '}
-          <br /> written codes, we build amazing apps for all <br /> platforms, mobile and web apps in general.
+          If you need to any specific requirement please contact <br /> with us and tell us what you want. With well{' '}
+          written <br /> codes, we build amazing apps for all platforms,
+          <br /> mobile and web apps in general.
         </p>
       </div>
       <div className='w-[45%]'>
